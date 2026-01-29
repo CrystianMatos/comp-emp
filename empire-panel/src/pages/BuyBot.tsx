@@ -1,5 +1,6 @@
 import { useAuthModal } from "../auth/useAuthModal";
 import AuthModal from "../auth/AuthModal";
+// WIP: pricing page layout
 
 type Plan = {
   id: string;
